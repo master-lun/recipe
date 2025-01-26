@@ -1,3 +1,5 @@
 Spicy
 Sweet
 Salty
+plain
+sour
